@@ -4,7 +4,7 @@ A **React Native** project designed to capture and manage notes from various loc
 
 ## Features
 
-- **@react-native-firebase/auth** and **@react-native-firebase/firestore**: Secure user authentication and seamless real-time database functionality to store and manage notes effectively.  
+- **@react-native-firebase/auth** and **@react-native-firebase/firestore**: Secure user authentication and seamless real-time database functionality to store and manage notes effectively.
 
 - **@ui-kitten/components**: Provides a sleek and responsive UI design, ensuring a visually appealing experience.
 
@@ -27,4 +27,3 @@ A **React Native** project designed to capture and manage notes from various loc
 ## Preview
 
 ![Map Note App Preview](image.gif)
-
